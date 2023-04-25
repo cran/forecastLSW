@@ -1,0 +1,21 @@
+importFrom(graphics, plot,axis,title,points,segments,polygon,lines)
+importFrom(forecast,accuracy,forecast,auto.arima)
+importFrom(grDevices,pdf,dev.off,rgb)
+importFrom(stats,qnorm,var,pacf,optimize)
+importFrom(utils,data)
+importFrom(methods,is)
+
+import(parallel)
+import(locits)
+import(wavethresh)
+import(lpacf)
+
+#exportPattern("^[[:alpha:]]+")
+export(analyze.abmld2, analyze.windanomaly)
+export(dforecastlpacf, forecastlpacf, forecastpanel,testforecast,fp.forecast, which.wavelet.best)
+export(plot.forecastlpacf,print.forecastlpacf, summary.forecastlpacf)
+
+S3method(plot,forecastlpacf)
+S3method(print,forecastlpacf)
+S3method(summary,forecastlpacf)
+
