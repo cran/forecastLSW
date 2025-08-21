@@ -1,6 +1,6 @@
-504caa36bfe729aa9fb97f5f3a869ee2 *DESCRIPTION
+83a29e092500efa3a82de2413c6f0421 *DESCRIPTION
 a2105aa67049d27b360d92613bdde9d3 *NAMESPACE
-50b4848dff9d143ed6d9678ef4433621 *NEWS
+a03bb35ff00d84078fd284279dba173f *NEWS
 d45b8470eb5a1391f9806cfacb86a703 *R/analyze.abmld2.R
 1f28747616d87c3539b2bf60b009511b *R/analyze.windanomaly.R
 e8c18fd4784a2af944f5e816db3735f0 *R/ci.sym.R
@@ -23,9 +23,9 @@ e152d21b65dbf8ac71146dedd8a4f8fd *data/abmld2.rda
 f23131e8743563a22087b8fcf6c018c9 *data/windanomaly.rda
 945fd98765d2eca3b51f25606f5480ad *man/abmld2.Rd
 818cb5b71149661fc7d81282cb4a4072 *man/analyze.abmld2.Rd
-887a800cddb3faf1a47f9a97c1136397 *man/analyze.windanomaly.Rd
-ac668a9e86066c292831f6b523b25f4e *man/forecastLSW-package.Rd
-0ded2ea190256183cca8eb3926d38017 *man/forecastlpacf.Rd
+3b57146d9b5ddfdc1025eaa8020be30f *man/analyze.windanomaly.Rd
+330bb2a172b51df4de9964d22de25359 *man/forecastLSW-package.Rd
+032af799b50391b8b874358318a1efea *man/forecastlpacf.Rd
 c201107e19009e8edc8e72d9672ef410 *man/forecastpanel.Rd
 7cb00313cb871aa174b0d69493f994a2 *man/fp.forecast.Rd
 2acd2363343225c2563c6267f2f845b6 *man/plot.forecastlpacf.Rd
